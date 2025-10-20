@@ -79,7 +79,4 @@ Open an issue or submit a pull request to contribute.
 ✔️ Offline mode for saved recipes
 ✔️ Mobile app version
 
-📝 License
-This project is open-source and available under the MIT License.
-
-Cook smarter — Snap, Recognize, and Create! 🍳📸
+Cook smarter - Snap, Recognize, and Create! 🍳📸
