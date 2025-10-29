@@ -2,7 +2,7 @@
 An AI-powered, Streamlit-based web application that identifies recipes from uploaded food images and provides step-by-step preparation details. Built using Python, Streamlit, Pandas, and deep learning, this tool helps users quickly discover and recreate delicious dishes with ease.
 
 ## 🔍 Overview
-Finding a recipe from just an image can be challenging — but not anymore! The Recipe Recognition App uses advanced image recognition to detect dishes and instantly provide:
+Finding a recipe from just an image can be challenging, but not anymore! The Recipe Recognition App uses advanced image recognition to detect dishes and instantly provide:
 
 ✅ Recipe names and descriptions
 ✅ Required ingredients with quantities
